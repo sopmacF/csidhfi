@@ -1,4 +1,4 @@
-# Practial Evaluation of our Attacks
+# Practical Evaluation of our Attacks
 
 We provide the ChipWhisperer attack scripts that we used. 
 If you have a [CW1173](https://wiki.newae.com/CW1173_ChipWhisperer-Lite) at hand you should be able to reproduce the results reported in the paper. 
